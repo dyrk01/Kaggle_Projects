@@ -43,6 +43,7 @@ Volume sold (liters) | Total volume of liquor ordered in liters
 Volume sold (gallons) | Total volume of liquor ordered in gallons 
 
 ## Analysis
+<img width="490" height="350" src="hhttps://github.com/dyrk01/Kaggle_Projects/blob/master/Iowa%20Alcohol%20Sales/image/top_cities_sales.png"/>  
 
 ## Conclusion
 
