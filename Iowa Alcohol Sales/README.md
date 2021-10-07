@@ -1,4 +1,4 @@
-## What you will find
+## Contents
 - Code [[link]](https://github.com/dyrk01/Kaggle_Projects/tree/master/Iowa%20Alcohol%20Sales/code)
   - Data Prep 
   - Data analysis
@@ -41,15 +41,5 @@ Bottles sold | number of bottles sold
 Sale (Dollars) | Total cost of liquor order
 Volume sold (liters) | Total volume of liquor ordered in liters 
 Volume sold (gallons) | Total volume of liquor ordered in gallons 
-
-## Analysis
-
-## Location 
-
-<img width="490" height="350" src="https://github.com/dyrk01/Kaggle_Projects/blob/master/Iowa%20Alcohol%20Sales/image/top_cities_sales.png"/>  
-
-## Conclusion
-
-## Things to improve 
 
 
