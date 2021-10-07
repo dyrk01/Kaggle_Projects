@@ -1,0 +1,1061 @@
+<<<<<<< HEAD
+﻿name,pop2021
+Ackley,1476
+Adair,727
+Adel,6513
+Afton,807
+Agency,639
+Ainsworth,577
+Akron,1455
+Albert City,647
+Albia,3619
+Albion,472
+Alburnett,693
+Alden,726
+Algona,5357
+Alleman,446
+Allerton,513
+Allison,955
+Alta,1855
+Alton,1230
+Altoona,20097
+Ames,66772
+Anamosa,5573
+Andrew,406
+Anita,882
+Ankeny,71569
+Anthon,561
+Aplington,1030
+Arcadia,556
+Armstrong,842
+Arnolds Park,1355
+Asbury,5923
+Ashton,412
+Atkins,2050
+Atlantic,6404
+Audubon,1910
+Aurelia,944
+Avoca,1513
+Badger,516
+Bancroft,692
+Batavia,543
+Battle Creek,695
+Baxter,1134
+Bayard,443
+Beacon,491
+Beaverdale,1002
+Bedford,1368
+Belle Plaine,2438
+Bellevue,2227
+Belmond,2213
+Bettendorf,36965
+Birmingham,425
+Blairstown,653
+Bloomfield,2699
+Blue Grass,1645
+Bondurant,7588
+Boone,12242
+Boyden,665
+Breda,478
+Brighton,628
+Britt,1913
+Brooklyn,1400
+Buffalo,1264
+Buffalo Center,819
+Burlington,24461
+Burt,490
+Bussey,409
+Calmar,903
+Camanche,4411
+Cambridge,784
+Carlisle,4320
+Carroll,9829
+Carson,803
+Carter Lake,3763
+Cascade,2387
+Cedar Falls,40456
+Cedar Rapids,134268
+Center Point,2553
+Centerville,5445
+Central City,1292
+Chariton,4119
+Charles City,7185
+Charter Oak,458
+Cherokee,4821
+Clarence,977
+Clarinda,5292
+Clarion,2645
+Clarksville,1328
+Clear Lake,7480
+Clermont,587
+Clinton,25037
+Clive,17686
+Coalville,722
+Coggon,661
+Colfax,2046
+Collins,461
+Colo,800
+Columbus Junction,1793
+Conesville,429
+Conrad,1073
+Coon Rapids,1222
+Coralville,23578
+Corning,1397
+Correctionville,816
+Corydon,1622
+Council Bluffs,62056
+Crescent,616
+Cresco,3733
+Creston,7639
+Dakota City,843
+Dallas Center,1902
+Danville,885
+Davenport,100934
+Dayton,751
+De Soto,1083
+Decorah,7578
+Delhi,461
+Delmar,481
+Denison,7988
+Denmark,429
+Denver,1874
+Des Moines,210723
+Dewitt,5212
+Dexter,615
+Dike,1262
+Donnellson,842
+Doon,601
+Dow City,479
+Dows,492
+Dubuque,57696
+Dumont,588
+Dunkerton,853
+Dunlap,969
+Durant,1862
+Dyersville,4543
+Dysart,1311
+Eagle Grove,3366
+Earlham,1404
+Earling,370
+Earlville,766
+Early,515
+Eddyville,1012
+Edgewood,851
+Eldon,915
+Eldora,2578
+Eldridge,6968
+Elgin,638
+Elk Horn,606
+Elk Run Heights,1130
+Elkader,1205
+Elkhart,1062
+Ellsworth,473
+Elma,521
+Ely,2425
+Emerson,463
+Emmetsburg,3670
+Epworth,2016
+Essex,723
+Estherville,5572
+Evansdale,4737
+Everly,538
+Exira,773
+Fairbank,1135
+Fairfax,3036
+Fairfield,10593
+Farley,1886
+Farmington,628
+Farragut,444
+Fayette,1435
+Fonda,561
+Fontanelle,638
+Forest City,3895
+Fort Dodge,23352
+Fort Madison,10201
+Fredericksburg,917
+Fremont,725
+Fruitland,974
+Galva,419
+Garnavillo,724
+Garner,3023
+Garwin,487
+George,1020
+Gilbert,1161
+Gilbertville,724
+Gilman,466
+Gilmore City,463
+Gladbrook,856
+Glenwood,5517
+Glidden,1112
+Goldfield,581
+Gowrie,925
+Graettinger,795
+Grand Junction,757
+Grand Mound,589
+Grandview,512
+Granger,1670
+Greene,1047
+Greenfield,1882
+Grimes,17348
+Grinnell,9134
+Griswold,926
+Grundy Center,2668
+Guthrie Center,1480
+Guttenberg,1794
+Hamburg,996
+Hampton,4187
+Harlan,4658
+Hartford,777
+Hartley,1562
+Hawarden,2400
+Hazleton,833
+Hedrick,770
+Hiawatha,7480
+Hills,792
+Hinton,972
+Holstein,1382
+Hopkinton,591
+Hospers,686
+Hubbard,795
+Hudson,2490
+Hull,2289
+Humboldt,4573
+Humeston,488
+Huxley,4434
+Ida Grove,2050
+Independence,6228
+Indianola,15971
+Inwood,873
+Iowa City,73998
+Iowa Falls,4995
+Ireton,599
+Janesville,998
+Jefferson,4020
+Jesup,2693
+Jewell,1111
+Johnston,23664
+Kalona,2555
+Kanawha,581
+Kellogg,578
+Keokuk,9981
+Keosauqua,918
+Keota,975
+Keystone,624
+Kingsley,1406
+Klemme,449
+Knoxville,7116
+La Porte City,2218
+Lake City,1620
+Lake Mills,1912
+Lake Panorama,860
+Lake Park,1129
+Lake View,1088
+Lakeside,679
+Lamoni,2243
+Lamont,453
+Lansing,905
+Larchwood,873
+Latimer,470
+Laurens,1088
+Lawler,413
+Lawton,998
+Le Claire,3973
+Le Grand,886
+Le Mars,10329
+Lenox,1385
+Leon,1805
+Lime Springs,468
+Lisbon,2259
+Little Rock,423
+Logan,1400
+Lone Tree,1375
+Long Grove,884
+Lovilia,499
+Lowden,767
+Madrid,2529
+Maharishi Vedic City,1289
+Malvern,1143
+Manchester,4964
+Manilla,720
+Manly,1274
+Manning,1414
+Manson,1542
+Mapleton,1143
+Maquoketa,5962
+Marcus,1040
+Marengo,2482
+Marion,41137
+Marquette,431
+Marshalltown,26030
+Martensdale,449
+Mason City,26659
+Maxwell,889
+Maynard,486
+McGregor,832
+Mechanicsville,1127
+Mediapolis,1505
+Melbourne,766
+Melcher-Dallas,1228
+Merrill,729
+Middle Amana,778
+Miles,435
+Milford,3015
+Milo,749
+Minden,590
+Missouri Valley,2573
+Mitchellville,2220
+Monona,1461
+Monroe,1934
+Montezuma,1420
+Monticello,3920
+Montrose,764
+Moravia,638
+Morning Sun,772
+Moulton,580
+Mt Ayr,1589
+Mt Pleasant,8604
+Mt Vernon,4462
+Moville,1689
+Murray,660
+Muscatine,23389
+Mystic,411
+Nashua,1585
+Neola,935
+Nevada,6595
+New Albin,491
+New Hampton,3410
+New Hartford,482
+New London,1823
+New Sharon,1299
+New Virginia,485
+Newell,846
+Newhall,852
+Newton,15118
+Nora Springs,1344
+North English,1009
+North Liberty,20083
+Northwood,1941
+Norwalk,12790
+Norway,528
+Oakland,1491
+Ocheyedan,455
+Odebolt,941
+Oelwein,5868
+Ogden,1957
+Okoboji,786
+Olin,685
+Onawa,2726
+Orange City,6422
+Orleans,589
+Osage,3563
+Osceola,5266
+Oskaloosa,11622
+Ossian,764
+Otho,487
+Ottumwa,24274
+Oxford,770
+Oxford Junction,477
+Palo,1070
+Panora,1061
+Panorama Park,659
+Park View,2818
+Parkersburg,1904
+Paullina,969
+Pella,10295
+Peosta,2023
+Perry,8162
+Plainfield,412
+Pleasant Hill,9993
+Pleasantville,1692
+Pocahontas,1590
+Polk City,5319
+Pomeroy,603
+Postville,1993
+Prairie City,1702
+Preston,951
+Primghar,850
+Princeton,948
+Quasqueton,560
+Radcliffe,516
+Raymond,777
+Readlyn,858
+Red Oak,5218
+Redfield,862
+Reinbeck,1612
+Remsen,1607
+Riceville,772
+Richland,588
+Riverdale,437
+Riverside,1022
+Robins,3627
+Rock Rapids,2474
+Rock Valley,3884
+Rockford,810
+Rockwell,980
+Rockwell City,2058
+Roland,1232
+Rolfe,516
+Runnells,492
+Russell,530
+Ruthven,678
+Sabula,552
+Sac City,2062
+Sanborn,1383
+Saylorville,4009
+Schaller,719
+Schleswig,823
+Scranton,516
+Sergeant Bluff,5559
+Seymour,705
+Sheffield,1100
+Shelby,604
+Sheldon,5048
+Shell Rock,1257
+Shellsburg,966
+Shenandoah,4728
+Shueyville,643
+Sibley,2508
+Sidney,1053
+Sigourney,2025
+Sioux Center,7611
+Sioux City,83193
+Sioux Rapids,728
+Slater,1424
+Sloan,999
+Solon,2722
+Spencer,10834
+Spirit Lake,5337
+Springville,1135
+St Ansgar,1122
+St Charles,615
+Stacyville,455
+Stanton,633
+Stanwood,650
+State Center,1402
+Storm Lake,10134
+Story City,3254
+Stratford,681
+Strawberry Point,1212
+Stuart,1740
+Sully,821
+Sumner,1952
+Sutherland,590
+Swea City,503
+Swisher,925
+Tabor,993
+Tama,2718
+Thompson,449
+Tiffin,5161
+Tin,3215
+Titonka,439
+Toledo,2143
+Traer,1586
+Treynor,963
+Tripoli,1376
+Truro,475
+Underwood,982
+University Heights,986
+University Park,467
+Urbana,1532
+Urbandale,45279
+Van Horne,656
+Van Meter,1512
+Ventura,705
+Victor,870
+Villisca,1130
+Vinton,5047
+Walcott,1632
+Walford,1439
+Walker,789
+Wall Lake,791
+Walnut,759
+Wapello,1955
+Washburn,643
+Washington,7118
+Washta,223
+Waterloo,66540
+Waukee,26833
+Waukon,3517
+Waverly,10308
+Wayland,933
+Webster City,7629
+Wellman,1387
+Wellsburg,681
+West Bend,746
+West Branch,2620
+West Burlington,2870
+West Des Moines,70487
+West Liberty,3738
+West Point,916
+West Union,2291
+What Cheer,624
+Wheatland,723
+Whiting,717
+Whittemore,472
+Williamsburg,3198
+Wilton,2800
+Windsor Heights,4667
+Winfield,1074
+Winterset,5535
+Winthrop,839
+Woodbine,1361
+Woodward,1514
+Wyoming,509
+Zearing,504
+Pleasant Valley,231
+Arlington,393
+Lohrville,431
+Casey,387
+Lost Nation,434
+Harpers Ferry,262
+Zwingle,91
+Corwith,266
+Baldwin,99
+Delaware,142
+Amana,338
+Bevington,57
+Fort Atkinson,349
+Cumming,351
+Pacific Junction,96
+St Lucas,143
+Holy Cross,356
+Wesley,365
+Floyd,313
+Templeton,334
+Tipton,3221
+Sageville,97
+Rudd,358
+Nichols,374
+Livermore,384
+Middletown,318
+=======
+﻿name,pop2021
+Ackley,1476
+Adair,727
+Adel,6513
+Afton,807
+Agency,639
+Ainsworth,577
+Akron,1455
+Albert City,647
+Albia,3619
+Albion,472
+Alburnett,693
+Alden,726
+Algona,5357
+Alleman,446
+Allerton,513
+Allison,955
+Alta,1855
+Alton,1230
+Altoona,20097
+Ames,66772
+Anamosa,5573
+Andrew,406
+Anita,882
+Ankeny,71569
+Anthon,561
+Aplington,1030
+Arcadia,556
+Armstrong,842
+Arnolds Park,1355
+Asbury,5923
+Ashton,412
+Atkins,2050
+Atlantic,6404
+Audubon,1910
+Aurelia,944
+Avoca,1513
+Badger,516
+Bancroft,692
+Batavia,543
+Battle Creek,695
+Baxter,1134
+Bayard,443
+Beacon,491
+Beaverdale,1002
+Bedford,1368
+Belle Plaine,2438
+Bellevue,2227
+Belmond,2213
+Bettendorf,36965
+Birmingham,425
+Blairstown,653
+Bloomfield,2699
+Blue Grass,1645
+Bondurant,7588
+Boone,12242
+Boyden,665
+Breda,478
+Brighton,628
+Britt,1913
+Brooklyn,1400
+Buffalo,1264
+Buffalo Center,819
+Burlington,24461
+Burt,490
+Bussey,409
+Calmar,903
+Camanche,4411
+Cambridge,784
+Carlisle,4320
+Carroll,9829
+Carson,803
+Carter Lake,3763
+Cascade,2387
+Cedar Falls,40456
+Cedar Rapids,134268
+Center Point,2553
+Centerville,5445
+Central City,1292
+Chariton,4119
+Charles City,7185
+Charter Oak,458
+Cherokee,4821
+Clarence,977
+Clarinda,5292
+Clarion,2645
+Clarksville,1328
+Clear Lake,7480
+Clermont,587
+Clinton,25037
+Clive,17686
+Coalville,722
+Coggon,661
+Colfax,2046
+Collins,461
+Colo,800
+Columbus Junction,1793
+Conesville,429
+Conrad,1073
+Coon Rapids,1222
+Coralville,23578
+Corning,1397
+Correctionville,816
+Corydon,1622
+Council Bluffs,62056
+Crescent,616
+Cresco,3733
+Creston,7639
+Dakota City,843
+Dallas Center,1902
+Danville,885
+Davenport,100934
+Dayton,751
+De Soto,1083
+Decorah,7578
+Delhi,461
+Delmar,481
+Denison,7988
+Denmark,429
+Denver,1874
+Des Moines,210723
+Dewitt,5212
+Dexter,615
+Dike,1262
+Donnellson,842
+Doon,601
+Dow City,479
+Dows,492
+Dubuque,57696
+Dumont,588
+Dunkerton,853
+Dunlap,969
+Durant,1862
+Dyersville,4543
+Dysart,1311
+Eagle Grove,3366
+Earlham,1404
+Earling,370
+Earlville,766
+Early,515
+Eddyville,1012
+Edgewood,851
+Eldon,915
+Eldora,2578
+Eldridge,6968
+Elgin,638
+Elk Horn,606
+Elk Run Heights,1130
+Elkader,1205
+Elkhart,1062
+Ellsworth,473
+Elma,521
+Ely,2425
+Emerson,463
+Emmetsburg,3670
+Epworth,2016
+Essex,723
+Estherville,5572
+Evansdale,4737
+Everly,538
+Exira,773
+Fairbank,1135
+Fairfax,3036
+Fairfield,10593
+Farley,1886
+Farmington,628
+Farragut,444
+Fayette,1435
+Fonda,561
+Fontanelle,638
+Forest City,3895
+Fort Dodge,23352
+Fort Madison,10201
+Fredericksburg,917
+Fremont,725
+Fruitland,974
+Galva,419
+Garnavillo,724
+Garner,3023
+Garwin,487
+George,1020
+Gilbert,1161
+Gilbertville,724
+Gilman,466
+Gilmore City,463
+Gladbrook,856
+Glenwood,5517
+Glidden,1112
+Goldfield,581
+Gowrie,925
+Graettinger,795
+Grand Junction,757
+Grand Mound,589
+Grandview,512
+Granger,1670
+Greene,1047
+Greenfield,1882
+Grimes,17348
+Grinnell,9134
+Griswold,926
+Grundy Center,2668
+Guthrie Center,1480
+Guttenberg,1794
+Hamburg,996
+Hampton,4187
+Harlan,4658
+Hartford,777
+Hartley,1562
+Hawarden,2400
+Hazleton,833
+Hedrick,770
+Hiawatha,7480
+Hills,792
+Hinton,972
+Holstein,1382
+Hopkinton,591
+Hospers,686
+Hubbard,795
+Hudson,2490
+Hull,2289
+Humboldt,4573
+Humeston,488
+Huxley,4434
+Ida Grove,2050
+Independence,6228
+Indianola,15971
+Inwood,873
+Iowa City,73998
+Iowa Falls,4995
+Ireton,599
+Janesville,998
+Jefferson,4020
+Jesup,2693
+Jewell,1111
+Johnston,23664
+Kalona,2555
+Kanawha,581
+Kellogg,578
+Keokuk,9981
+Keosauqua,918
+Keota,975
+Keystone,624
+Kingsley,1406
+Klemme,449
+Knoxville,7116
+La Porte City,2218
+Lake City,1620
+Lake Mills,1912
+Lake Panorama,860
+Lake Park,1129
+Lake View,1088
+Lakeside,679
+Lamoni,2243
+Lamont,453
+Lansing,905
+Larchwood,873
+Latimer,470
+Laurens,1088
+Lawler,413
+Lawton,998
+Le Claire,3973
+Le Grand,886
+Le Mars,10329
+Lenox,1385
+Leon,1805
+Lime Springs,468
+Lisbon,2259
+Little Rock,423
+Logan,1400
+Lone Tree,1375
+Long Grove,884
+Lovilia,499
+Lowden,767
+Madrid,2529
+Maharishi Vedic City,1289
+Malvern,1143
+Manchester,4964
+Manilla,720
+Manly,1274
+Manning,1414
+Manson,1542
+Mapleton,1143
+Maquoketa,5962
+Marcus,1040
+Marengo,2482
+Marion,41137
+Marquette,431
+Marshalltown,26030
+Martensdale,449
+Mason City,26659
+Maxwell,889
+Maynard,486
+McGregor,832
+Mechanicsville,1127
+Mediapolis,1505
+Melbourne,766
+Melcher-Dallas,1228
+Merrill,729
+Middle Amana,778
+Miles,435
+Milford,3015
+Milo,749
+Minden,590
+Missouri Valley,2573
+Mitchellville,2220
+Monona,1461
+Monroe,1934
+Montezuma,1420
+Monticello,3920
+Montrose,764
+Moravia,638
+Morning Sun,772
+Moulton,580
+Mt Ayr,1589
+Mt Pleasant,8604
+Mt Vernon,4462
+Moville,1689
+Murray,660
+Muscatine,23389
+Mystic,411
+Nashua,1585
+Neola,935
+Nevada,6595
+New Albin,491
+New Hampton,3410
+New Hartford,482
+New London,1823
+New Sharon,1299
+New Virginia,485
+Newell,846
+Newhall,852
+Newton,15118
+Nora Springs,1344
+North English,1009
+North Liberty,20083
+Northwood,1941
+Norwalk,12790
+Norway,528
+Oakland,1491
+Ocheyedan,455
+Odebolt,941
+Oelwein,5868
+Ogden,1957
+Okoboji,786
+Olin,685
+Onawa,2726
+Orange City,6422
+Orleans,589
+Osage,3563
+Osceola,5266
+Oskaloosa,11622
+Ossian,764
+Otho,487
+Ottumwa,24274
+Oxford,770
+Oxford Junction,477
+Palo,1070
+Panora,1061
+Panorama Park,659
+Park View,2818
+Parkersburg,1904
+Paullina,969
+Pella,10295
+Peosta,2023
+Perry,8162
+Plainfield,412
+Pleasant Hill,9993
+Pleasantville,1692
+Pocahontas,1590
+Polk City,5319
+Pomeroy,603
+Postville,1993
+Prairie City,1702
+Preston,951
+Primghar,850
+Princeton,948
+Quasqueton,560
+Radcliffe,516
+Raymond,777
+Readlyn,858
+Red Oak,5218
+Redfield,862
+Reinbeck,1612
+Remsen,1607
+Riceville,772
+Richland,588
+Riverdale,437
+Riverside,1022
+Robins,3627
+Rock Rapids,2474
+Rock Valley,3884
+Rockford,810
+Rockwell,980
+Rockwell City,2058
+Roland,1232
+Rolfe,516
+Runnells,492
+Russell,530
+Ruthven,678
+Sabula,552
+Sac City,2062
+Sanborn,1383
+Saylorville,4009
+Schaller,719
+Schleswig,823
+Scranton,516
+Sergeant Bluff,5559
+Seymour,705
+Sheffield,1100
+Shelby,604
+Sheldon,5048
+Shell Rock,1257
+Shellsburg,966
+Shenandoah,4728
+Shueyville,643
+Sibley,2508
+Sidney,1053
+Sigourney,2025
+Sioux Center,7611
+Sioux City,83193
+Sioux Rapids,728
+Slater,1424
+Sloan,999
+Solon,2722
+Spencer,10834
+Spirit Lake,5337
+Springville,1135
+St Ansgar,1122
+St Charles,615
+Stacyville,455
+Stanton,633
+Stanwood,650
+State Center,1402
+Storm Lake,10134
+Story City,3254
+Stratford,681
+Strawberry Point,1212
+Stuart,1740
+Sully,821
+Sumner,1952
+Sutherland,590
+Swea City,503
+Swisher,925
+Tabor,993
+Tama,2718
+Thompson,449
+Tiffin,5161
+Tin,3215
+Titonka,439
+Toledo,2143
+Traer,1586
+Treynor,963
+Tripoli,1376
+Truro,475
+Underwood,982
+University Heights,986
+University Park,467
+Urbana,1532
+Urbandale,45279
+Van Horne,656
+Van Meter,1512
+Ventura,705
+Victor,870
+Villisca,1130
+Vinton,5047
+Walcott,1632
+Walford,1439
+Walker,789
+Wall Lake,791
+Walnut,759
+Wapello,1955
+Washburn,643
+Washington,7118
+Washta,223
+Waterloo,66540
+Waukee,26833
+Waukon,3517
+Waverly,10308
+Wayland,933
+Webster City,7629
+Wellman,1387
+Wellsburg,681
+West Bend,746
+West Branch,2620
+West Burlington,2870
+West Des Moines,70487
+West Liberty,3738
+West Point,916
+West Union,2291
+What Cheer,624
+Wheatland,723
+Whiting,717
+Whittemore,472
+Williamsburg,3198
+Wilton,2800
+Windsor Heights,4667
+Winfield,1074
+Winterset,5535
+Winthrop,839
+Woodbine,1361
+Woodward,1514
+Wyoming,509
+Zearing,504
+Pleasant Valley,231
+Arlington,393
+Lohrville,431
+Casey,387
+Lost Nation,434
+Harpers Ferry,262
+Zwingle,91
+Corwith,266
+Baldwin,99
+Delaware,142
+Amana,338
+Bevington,57
+Fort Atkinson,349
+Cumming,351
+Pacific Junction,96
+St Lucas,143
+Holy Cross,356
+Wesley,365
+Floyd,313
+Templeton,334
+Tipton,3221
+Sageville,97
+Rudd,358
+Nichols,374
+Livermore,384
+Middletown,318
+>>>>>>> d6f4e9d (added excel files)
