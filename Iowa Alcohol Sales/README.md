@@ -4,7 +4,6 @@
   - Data analysis
 
 - Products [[link]](https://github.com/dyrk01/Kaggle_Projects/tree/master/Iowa%20Alcohol%20Sales/products)
-  - Powerpoint presentaton 
   - Tableau [[link]](https://public.tableau.com/app/profile/dedrickyong/viz/IowaAlcoholsales/Story1)
   - SQL (data cleaning and query) 
   - Excel (data cleaning and analysis)
