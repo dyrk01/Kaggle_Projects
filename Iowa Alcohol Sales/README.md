@@ -1,5 +1,5 @@
 ## Contents
-- Raw Data [[link]]()
+- Raw Data [[link]](https://github.com/dyrk01/Kaggle_Projects/tree/master/Iowa%20Alcohol%20Sales/data/raw_data)
   - City population 
   - Iowa counties
   - Iowa liquor products
@@ -8,14 +8,14 @@
  
 - Processed Data
   - Iowa alcohol sales cleaned (5 months) [[link]](https://docs.google.com/spreadsheets/d/1oP9W6Q-4mrQzBHyZ6HWv5cncvtoouMFG/edit?usp=sharing&ouid=115633765262776346707&rtpof=true&sd=true)
-  - Iowa alcohol sales cleaned (1 year) [[link]]()
+  - Iowa alcohol sales cleaned (1 year) [[link]](https://drive.google.com/file/d/1IQq89SwXKdi22cW5x5uqf-wNZJfdIsTN/view?usp=sharing)
   
 - Code [[link]](https://github.com/dyrk01/Kaggle_Projects/tree/master/Iowa%20Alcohol%20Sales/code)
   - Data prep jupyter notebook
   - Data analysis jupyter notebook
 
 - Products [[link]](https://github.com/dyrk01/Kaggle_Projects/tree/master/Iowa%20Alcohol%20Sales/products)
-  - Tableau Story [[link]](https://public.tableau.com/app/profile/dedrickyong/viz/IowaAlcoholsales/Story1)
+  - Tableau Story [[link]](https://public.tableau.com/app/profile/dyrk/viz/IowaAlcoholsales/Story1)
   - SQL (data cleaning and queries using the 5 months dataset)
   - Excel (data cleaning and analysis using the 5 months dataset)
 
