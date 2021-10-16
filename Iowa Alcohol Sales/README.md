@@ -8,7 +8,7 @@
  
 - Processed Data
   - Iowa alcohol sales cleaned (5 months) [[link]](https://docs.google.com/spreadsheets/d/1oP9W6Q-4mrQzBHyZ6HWv5cncvtoouMFG/edit?usp=sharing&ouid=115633765262776346707&rtpof=true&sd=true)
-  - Iowa alcohol sales cleaned (1 year) [[link]]()
+  - Iowa alcohol sales cleaned (1 year) [[link]](https://drive.google.com/file/d/1IQq89SwXKdi22cW5x5uqf-wNZJfdIsTN/view?usp=sharing)
   
 - Code [[link]](https://github.com/dyrk01/Kaggle_Projects/tree/master/Iowa%20Alcohol%20Sales/code)
   - Data prep jupyter notebook
