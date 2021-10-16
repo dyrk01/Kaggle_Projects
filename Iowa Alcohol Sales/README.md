@@ -47,7 +47,7 @@ Pack | Number of bottles in a case ordered
 Bottle volume (ml) | Volume of each bottle prdered in ml 
 State bottle cost | Cost price of each bottle
 State bottle retail | Selling price of each bottle to store
-Bottles sold | number of bottles sold 
+Bottles sold | Number of bottles sold 
 Sale (Dollars) | Total cost of liquor order
 Volume sold (liters) | Total volume of liquor ordered in liters 
 Volume sold (gallons) | Total volume of liquor ordered in gallons 
