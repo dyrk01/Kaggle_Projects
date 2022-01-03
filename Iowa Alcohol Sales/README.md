@@ -15,7 +15,7 @@
   - Data analysis jupyter notebook
 
 - Products [[link]](https://github.com/dyrk01/Kaggle_Projects/tree/master/Iowa%20Alcohol%20Sales/products)
-  - Tableau Story [[link]](https://public.tableau.com/app/profile/dyrk/viz/IowaAlcoholsales/Story1)
+  - Tableau Story [[link]](https://public.tableau.com/app/profile/dyrk/viz/Book1_16411138258760/IowaAlcoholSales)
   - SQL (data cleaning and queries using the 5 months dataset)
   - Excel (data cleaning and analysis using the 5 months dataset)
 
