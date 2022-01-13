@@ -18,7 +18,7 @@
   - Tableau Story [[link]](https://public.tableau.com/app/profile/dyrk/viz/Book1_16411138258760/IowaAlcoholSales)
   - SQL (data cleaning and queries using the 5 months dataset)
   - Excel (data cleaning and analysis using the 5 months dataset)
-  - Data analytics report (1 year dataset)
+  - Data analytics report
 
 ## Dataset
 This dataset contains the spirits purchase information of Iowa Class “E” liquor licensees by product and date of purchase for calendar year 2019. The dataset can be used to analyze total spirits sales in Iowa of individual products at the store level.
